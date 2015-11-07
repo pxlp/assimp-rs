@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Bone","Bone type"],["BoneIter","Bone iterator type."],["Mesh","Mesh type (incomplete)"],["MeshIter","Mesh iterator type."],["VertexWeight","Vertex weight type"],["VertexWeightIter","Vertex weight iterator type."]]});

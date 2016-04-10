@@ -9,8 +9,8 @@ repository = "https://github.com/Eljay/assimp-rs"
 license = "MIT"
 readme = "README.md"
 
-[dependencies]
-assimp-sys = "0.0.7"
+[dependencies.assimp-sys]
+path = "../assimp-sys"
 
 [dependencies.cgmath]
 version = "0.5.0"
